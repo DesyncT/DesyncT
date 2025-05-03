@@ -25,6 +25,5 @@ Been coding since 2019<br>
 
 ```csharp
 STATUS  :  Inactive
-Languages  :  Python, HTML, CSS, NODEJS, JavaScript
 Discord  :  failedtrades.
 ```
