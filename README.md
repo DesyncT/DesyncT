@@ -3,7 +3,7 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=DesyncT&style=flat-square&color=blue" alt=""/>
-
+</p>
 </div>
 <br>
 
